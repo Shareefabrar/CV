@@ -1,0 +1,15 @@
+*{
+    background-color: #FFF9B6;
+}
+hr{
+    height: 0px;
+    border: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 5%;
+    border-color: #FFD07F;
+}
+.dp {
+    width: 150px;
+    border-radius: 100px;
+}
